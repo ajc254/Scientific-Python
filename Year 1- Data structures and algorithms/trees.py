@@ -1,4 +1,4 @@
-
+# Simple functions to complement the research report
 
 # for random number generation
 import random
