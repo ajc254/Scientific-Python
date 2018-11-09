@@ -1,2 +1,2 @@
 # Scientific-Python
-Multiple research projects using scientific python
+Multiple research projects using scientific python.
